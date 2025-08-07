@@ -17,7 +17,8 @@ public class JavaApplication3 {
         // TODO code application logic here
         
        System.out.println("Olá mundo!");
-       int x=0;
-       int y=0;
-    }
+       int x = 2;
+       int y = 3;
+       System.out.println("Soma de x e y: " + (x + y));
+   }
 }
